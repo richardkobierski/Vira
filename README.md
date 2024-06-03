@@ -12,6 +12,7 @@ Vira is a lightweight Discord music bot that plays music on YouTube.
 2. Other music bots take up a lot of local storage because they download the songs before playing them. Vira does not; it streams the music directly from YouTube itself!
 3. Each time users create a new session, Vira creates a music controller inside the channel, allowing users to use reactions to pause, play, or skip a song!
 <img width="442" alt="Music Controller" src="https://github.com/richardkobierski/Vira/assets/160172357/4534a502-17ef-4cc1-aa10-9377a551ddeb">
+
 # Requirements
 Vira requires two things to run, which are listed below.
 * FFMPEG - This is the bot's audio player. (https://ffmpeg.org/)
